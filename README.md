@@ -60,6 +60,8 @@ I've also collected use cases where there were sponsors involved AND the members
 
 Those are just some of the many examples of peer groups, or masterminds, or whatever you'd like to call them, provide value to attendees and those in the ecosystem surrounding these communities.
 
+**UPDATE: I'm currently seeking one agency, managed service provider, consulting firm, or professional services provider that will allow me to create a peer group with them as a "sponsor" for FREE in exchange for allowing me to write up a case study on the results should it prove to be a positive outcome for those involved. If you are interested in being part of the pilot program please contact me ASAP at mike@mikezawitkowski.com.**
+
 ### Supporting Community Organizations
 
 My journey has thankfully allowed me to cross paths with some amazing individuals and groups that are doing the hard work day in and day out of improving communities that in a number of ways are marginalized, underfunded, or simply lack the support they deserve for no good reason. I've heard incredible stories that were shared with me in the oral tradition, and have some compelling data illustrating the impact of their work, but for one reason or another there is no written record of these accomplishments. I'm eager to explore how to help these organizations through the decades of experience I've gained in working with data, and by leveraging the network of technologists, staticians, and data experts in my own community and network.
