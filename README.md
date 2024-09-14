@@ -43,6 +43,8 @@ Recently I made what I thought was an appropriately ambitious statement to motiv
 
 It's like one of my favorite writers John Scalzi has said when he sits down to write a book. When [interviewed about his writing process](https://chireviewofbooks.com/2017/03/22/how-john-scalzi-wrote-the-collapsing-empire/) Scalzi responded: "I have friends who exhaustively outline every single thing, and I would *hate* that. It would suck all the fun out of it, because I like writing to find out what’s going to happen next."
 
+In other words, I don't know how exactly I'm going to help 10,000 communities in 10 years or less, but I'm excited to find out!
+
 
 ## Some possible directions for what is next
 
