@@ -16,7 +16,7 @@ But most CEOs **don’t know where to start**, and that’s where we come in.
 
 ## Why This Matters  
 
-According to [McKinsey & Co.](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/what-it-takes-to-get-an-increasing-return-on-investment-in-tech), companies that successfully implement technology-driven process improvements see an **increase in profitability of up to 25%**. Meanwhile, those that fail to modernize risk losing up to **50% of their market value**.  
+According to [McKinsey & Co.](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/how-high-performers-optimize-it-productivity-for-revenue-growth-a-leaders-guide), companies with **high-performing digital strategies** experience **35% higher revenue growth** and **10% higher profit margins** than their competitors.  
 
 Yet most service businesses **hit a ceiling** because:  
 
@@ -30,9 +30,7 @@ Yet most service businesses **hit a ceiling** because:
 - Build proprietary tools that **increase their valuation**.  
 - Free up leadership to focus on **strategy, not daily firefighting**.  
 
-**The challenge?**  
-
-Most non-tech CEOs have been burned by **software that doesn’t deliver**, projects that run over budget, or tech teams that don’t understand business.  
+The challenge is that **many non-tech CEOs struggle with technology investments**. They often invest in software that doesn’t align with their business needs, overpay for systems they don’t fully use, or avoid digital transformation altogether, losing ground to more efficient competitors.  
 
 That’s why we **take a different approach**—one that works for non-technical leaders who need **real results, not more complexity**.  
 
@@ -81,6 +79,22 @@ We **help you invest in technology the right way**—starting with the **fastest
 3️⃣ **Build & Scale** – We implement **custom software, automation, or digital systems** that increase profitability.  
 
 Unlike traditional consultants, we **don’t just advise**—we **help you implement** tech in a way that actually works.
+
+---
+
+## The Cost of Doing Nothing  
+
+The risk of ignoring digital transformation is real.  
+
+Companies that fail to modernize often see **declining revenue and lower market valuation**. A report from [Deloitte](https://www.deloitte.com/global/en/issues/digital/unlocking-the-factors-behind-digital-transformation-value-creation.html) found that businesses that **align technology investments with strategy** significantly outperform those that do not.  
+
+Failing to adopt technology leads to:  
+
+- **Missed revenue opportunities** due to inefficient processes.  
+- **Lower business valuation** when compared to competitors with scalable systems.  
+- **Increased customer churn** as clients seek more efficient, tech-enabled services.  
+
+Avoiding technology investments doesn’t just slow growth—it actively puts businesses at risk.  
 
 ---
 
