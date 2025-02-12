@@ -3,9 +3,9 @@ title: Welcome
 layout: default
 ---
 
-# Scale Smarter, Not Harder: Tech Strategy for Non-Tech CEOs  
+## Scale Smarter, Not Harder: Tech Strategy for Non-Tech CEOs  
 
-## The Fastest Path to a More Profitable, Scalable Business  
+### The Fastest Path to a More Profitable, Scalable Business  
 
 If you’re a CEO of a **service-based business**, you already know that scaling isn’t as simple as getting more customers. Growth means **more admin, more hiring, more complexity**—and for many companies, that means shrinking margins, constant stress, and feeling stuck.
 
