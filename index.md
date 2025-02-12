@@ -1,3 +1,8 @@
+---
+title: Welcome
+layout: default
+---
+
 # Scale Smarter, Not Harder: Tech Strategy for Non-Tech CEOs  
 
 ## The Fastest Path to a More Profitable, Scalable Business  
