@@ -69,7 +69,7 @@ Not sure where to start? We’re offering a **Free Tech Roadmap Session** for qu
 
 Want to make your business **more profitable, scalable, and valuable**?  
 
-📩 **[Email us](mailto:your@email.com)**  
+📩 **[Email us](mailto:mike@mikezawitkowski.com)**  
 📅 **[Book a free session](#contact)**  
 
 ---
