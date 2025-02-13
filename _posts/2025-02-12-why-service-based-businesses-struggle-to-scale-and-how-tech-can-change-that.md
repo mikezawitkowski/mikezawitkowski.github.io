@@ -1,4 +1,8 @@
-# Why Service-Based Businesses Struggle to Scale—and How Technology Can Change That
+---
+layout: post
+title: Why Service-Based Businesses Struggle to Scale—and How Technology Can Change That
+date: 2025-02-12 
+---
 
 ## The Growth Ceiling in Service-Based Businesses
 
