@@ -1,11 +1,12 @@
 ---
-title: Welcome
+title: "Scale Smarter, Not Harder: Tech Strategy for Non-Tech CEOs"
 layout: default
+permalink: /
 ---
 
-## Scale Smarter, Not Harder: Tech Strategy for Non-Tech CEOs  
+# Scale Smarter, Not Harder: Tech Strategy for Non-Tech CEOs  
 
-### The Fastest Path to a More Profitable, Scalable Business  
+## The Fastest Path to a More Profitable, Scalable Business  
 
 If you’re a CEO of a **service-based business**, you already know that scaling isn’t as simple as getting more customers. Growth means **more admin, more hiring, more complexity**—and for many companies, that means shrinking margins, constant stress, and feeling stuck.
 
@@ -87,19 +88,26 @@ Unlike traditional consultants, we **don’t just advise**—we **help you imple
 
 ---
 
-## The Cost of Doing Nothing  
+## The Cost of Doing Nothing vs. Doing It Wrong  
 
-The risk of ignoring digital transformation is real.  
+Many service business owners hesitate to invest in technology because they don’t fully understand **the cost of inaction vs. the cost of doing it wrong**.  
 
-Companies that fail to modernize often see **declining revenue and lower market valuation**. A report from [Deloitte](https://www.deloitte.com/global/en/issues/digital/unlocking-the-factors-behind-digital-transformation-value-creation.html) found that businesses that **align technology investments with strategy** significantly outperform those that do not.  
+🚨 **Doing nothing leads to:**  
+- **Higher operational costs** ([McKinsey](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/how-high-performers-optimize-it-productivity-for-revenue-growth-a-leaders-guide)).  
+- **Lower market valuation** ([Deloitte](https://www2.deloitte.com/us/en/insights/topics/digital-transformation/digital-transformation-value-roi.html)).  
+- **Competitors gaining a long-term advantage**.  
 
-Failing to adopt technology leads to:  
+⚠️ **Trying to do it yourself leads to:**  
+- **Wasted time and costly mistakes** ([Harvard Business Review](https://hbr.org/2021/03/why-do-so-many-digital-transformations-fail)).  
+- **Choosing the wrong tools or over-customizing software**.  
+- **Lack of integration with existing workflows, leading to more inefficiency**.  
 
-- **Missed revenue opportunities** due to inefficient processes.  
-- **Lower business valuation** when compared to competitors with scalable systems.  
-- **Increased customer churn** as clients seek more efficient, tech-enabled services.  
+✅ **Hiring an expert leads to:**  
+- **Faster ROI and cost savings of 10-30% annually** ([McKinsey](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/how-high-performers-optimize-it-productivity-for-revenue-growth-a-leaders-guide)).  
+- **A structured plan that prevents wasted investment**.  
+- **Long-term scalability and automation that grows with your business**.  
 
-Avoiding technology investments doesn’t just slow growth—it actively puts businesses at risk.  
+If you're unsure how to move forward, let’s have a quick conversation.  
 
 ---
 
@@ -115,7 +123,7 @@ In **30 minutes**, we’ll help you:
 
 This isn’t a sales call—it’s a **practical strategy session with zero fluff**.  
 
-[👉 Claim Your Free Session](https://calendar.app.google/L9SqtZuANtAoM9LD9)  
+📅 [👉 Claim Your Free Session](https://calendar.app.google/L9SqtZuANtAoM9LD9)  
 
 ---
 
@@ -125,12 +133,3 @@ Want to make your business **more profitable, scalable, and valuable**?
 
 📩 **[Email us](mailto:mike@mikezawitkowski.com)**  
 📅 **[Book a free session](https://calendar.app.google/L9SqtZuANtAoM9LD9)**  
-
-<a href="https://calendar.app.google/L9SqtZuANtAoM9LD9" target="_blank" rel="noopener noreferrer" 
-style="display: inline-block; padding: 12px 24px; font-size: 16px; font-weight: bold; color: white; 
-background-color: #007bff; text-decoration: none; border-radius: 5px;">
-    👉 Book a Free Tech Roadmap Session
-</a>
-
----
-
